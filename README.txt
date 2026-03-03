@@ -1,4 +1,4 @@
-## Bitrix Notificator
+# Bitrix Notificator
 
 script de automação de aviso de chamados em pipelines no Bitrix24
 
